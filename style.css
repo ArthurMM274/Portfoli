@@ -366,9 +366,9 @@ hr{
 
     .logo{
         position: relative;
-        bottom: 1px;
+        top: 12px;
         right: 30px;
-        font-size: 3em;
+        font-size: 2em;
         }
     .links{
         padding-top: 30%;
