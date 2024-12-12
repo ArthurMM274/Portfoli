@@ -32,7 +32,7 @@ body{
 }
 .sname{
     color: rgb(238, 88, 78);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .nav-list{
     display: flex;
@@ -50,7 +50,7 @@ body{
 }
 .logo{
     font-size: 27px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     letter-spacing: 4px;
     transition: all 0.2s;
 }
@@ -366,7 +366,7 @@ hr{
 
     .logo{
         position: relative;
-        top: 12px;
+        top: 9px;
         right: 30px;
         font-size: 2em;
         }
